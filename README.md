@@ -17,7 +17,7 @@ This repository contains my beginner-to-intermediate level data analysis project
 ### 3️⃣ Northwind Sales Dashboard
 - Tools: MySQL, Power BI
 - Description: Created relational SQL queries and visualized sales performance, employee contribution, and category insights in Power BI.
-- Files: `Northwind_Queries.sql`, `Northwind_Sales_Analysis.pbix`, `Northwind_SQL_Analysis_Template.docx`
+- Files:  `Northwind_Sales_Analysis.pbix`, `Northwind_SQL_Analysis.docx`
 
 ---
 
